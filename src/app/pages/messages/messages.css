@@ -1,0 +1,33 @@
+.chat-container {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  max-width: 500px;
+  margin: auto;
+  background-color: #f9f9f9;
+}
+
+.message {
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border-radius: 6px;
+}
+
+.blue-bg {
+  background-color: #cce5ff;
+}
+
+.gray-bg {
+  background-color: #e2e3e5;
+}
+
+.button {
+  margin-top: 0.5rem;
+  padding: 0.4rem 1rem;
+}
+
+.active-person {
+  font-weight: bold;
+  background-color: #007bff;
+  color: white;
+}
